@@ -1,0 +1,10 @@
+{
+  "simulation": "CreateNewComputerSimulation",
+  "simulationId": "createnewcomputersimulation",
+  "start": 1640030519550,
+  "description": "",
+  "scenarios": ["CreateNewComputerSimulation"],
+  "assertions": [
+
+  ]
+}
